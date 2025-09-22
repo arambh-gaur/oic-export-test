@@ -1,0 +1,26 @@
+# Deployment 1.0.0
+	
+	INTG_1 - 1.0.0
+	INTG_2 - 1.0.0
+	INTG_3 - 1.0.0
+
+# Deployment 1.0.1
+	
+	INTG_1 - 1.0.1
+	INTG_2 - 1.0.1
+	INTG_3 - 1.0.1
+
+# Deployment 1.0.2
+	
+	INTG_1 - 1.0.1
+	INTG_2 - 1.1.0
+	INTG_3 - 2.0.0
+	INTG_4 - 1.0.0
+
+# Deployment 1.0.3
+	
+	INTG_1 - 1.0.1
+	INTG_2 - 1.1.0
+	INTG_3 - 2.0.0
+
+	code, version
